@@ -20,4 +20,4 @@ const { environment } = require('@rails/webpacker')
   	//    Popper: ['popper.js', 'default']
   	//  })
   	//)
-  	module.exports = environment<
+  	module.exports = environment
